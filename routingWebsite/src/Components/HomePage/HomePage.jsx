@@ -2,7 +2,7 @@ import { Link } from "react-router";
 
 
 
-export default function Home() {
+export default function HomePage() {
     return (
         <div className="w-full mx-auto max-w-7xl">
             <aside className="relative mx-2 overflow-hidden text-black rounded-lg sm:mx-16 sm:py-16">

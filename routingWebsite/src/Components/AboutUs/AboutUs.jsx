@@ -1,7 +1,7 @@
 
 
 
-export default function About() {
+export default function AboutUs() {
     return (
         <div className="py-16 bg-white">
             <div className="container px-6 m-auto text-gray-600 md:px-12 xl:px-6">
