@@ -21,7 +21,7 @@ export default function HomePage() {
                                 fill="white"
                                 width="24"
                                 height="24"
-                                xmlns="http://www.w3.org/2000/svg"
+                                xmlns="https://images.pexels.com/photos/47344/dollar-currency-money-us-dollar-47344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                                 fillRule="evenodd"
                                 clipRule="evenodd"
                             >
@@ -33,12 +33,12 @@ export default function HomePage() {
                 </div>
 
                 <div className="absolute inset-0 w-full h-full pt-12 sm:my-20 sm:pt-1 ">
-                    <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
+                    <img className="w-96" src="https://images.pexels.com/photos/210600/pexels-photo-210600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="image1" />
                 </div>
             </aside>
 
             <div className="grid place-items-center sm:mt-20">
-                <img className="w-48 sm:w-96" src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="image2" />
+                <img className="w-48 sm:w-96" src="https://images.pexels.com/photos/2988232/pexels-photo-2988232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="image2" />
             </div>
 
             <h1 className="py-10 text-2xl font-medium text-center sm:text-5xl">Lorem Ipsum Yojo</h1>

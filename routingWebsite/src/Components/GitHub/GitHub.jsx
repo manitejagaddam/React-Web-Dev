@@ -11,7 +11,7 @@ function GitHub() {
         .then(data => {
             console.log(data);
             setData(data);
-            
+          
         })
     }, [])
 
@@ -19,9 +19,9 @@ function GitHub() {
 
   return (
     <div className="flex items-center justify-center">
+        <img src={data.avatar_url} alt="Git Hub Profile Page" width={300}/>
         <div className="p-5 text-3xl text-center text-white bg-zinc-400"> GitHub UserName : {data.login} No of Repositories : {data.public_repos}</div>
 
-        <img src={data.avatar_erl} alt="Git Hub Profile Page" width={300}/>
 
     </div>
   )
